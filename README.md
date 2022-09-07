@@ -10,7 +10,7 @@
 ---
 
 ### :woman_technologist: About Me :
-
+A recent Psychology graduate with plans to study medicine, turned to a hopeful software developer. Join me in my journey of learning code at the Nashville Software School. 
 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/t-autumnsmith/)
 
 ---
