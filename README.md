@@ -24,5 +24,5 @@ A recent Psychology graduate with plans to study medicine, turned to a hopeful s
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="CSharp" alt="CSharp" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="dot-net" alt="dot-net" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="sqlServer" alt="sql server" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="sqlServer" alt="sql server" width="40" height="40"/>
 </div>
